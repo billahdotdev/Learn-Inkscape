@@ -1,1 +1,1 @@
-Inkscape
+Learn Inkscape
