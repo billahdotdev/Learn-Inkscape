@@ -38,7 +38,9 @@ Here is some Theory-
 >> &bull;By combining straight and curved segments, you can create complex shapes and designs.
 
 
-2. Bezier and Pen Tools:
+
+>2. Bezier and Pen Tools:
+>>
 >> The Bezier and Pen tools allow you to draw custom paths with precision. With these tools, you can create smooth curves and sharp angles by clicking to place anchor points and dragging to adjust the curve handles.
 >> 
 >>Practice using these tools to create various shapes and paths. Experiment with different techniques like drawing straight lines, curves, and closed shapes.
