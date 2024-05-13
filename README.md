@@ -31,6 +31,6 @@ Here is some Theory-
 
 1. Paths and Nodes:
 >> &bull;Inkscape's strength lies in its powerful path editing capabilities. Paths are made up of nodes and segments. Nodes are the points that define the shape of the path, and segments are the lines that connect these nodes.
->>You can use the Node tool to select and manipulate individual nodes. Click on a node to select it, and then you can move it, adjust its handles (if it's a curved node), or delete it.
+>> &bull;You can use the Node tool to select and manipulate individual nodes. Click on a node to select it, and then you can move it, adjust its handles (if it's a curved node), or delete it.
 >>By combining straight and curved segments, you can create complex shapes and designs.
 
