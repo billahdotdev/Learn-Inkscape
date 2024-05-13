@@ -25,3 +25,5 @@ You can download Inkscape from its official [website.](https://inkscape.org/)
 ## Learn Inkscape
 
 The best way to learn Inkscape is by reading its official [documentation.](https://inkscape.org/learn/)
+You can find instructional YouTube videos on the topic too.
+
