@@ -65,4 +65,4 @@ Here is some Theory-
 >> &bull;Inkscape allows you to create clones of objects, which are linked copies that share the same properties as the original object. Any changes made to the original object are reflected in its clones.
 >>
 >> 
->>&bull;Similarly, you can fill shapes with patterns like stripes, dots, or custom designs. Inkscape provides a set of predefined patterns, and you can also create your own patterns.
+>>&bull;Symbols are reusable objects that can be placed multiple times in your artwork. Changes made to a symbol are applied to all instances of that symbol.
