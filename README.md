@@ -62,7 +62,7 @@ Here is some Theory-
 
 >4. Clones and Symbols:
 >>
->> &bull;Inkscape supports gradients and patterns for filling shapes and paths. You can create linear, radial, or elliptical gradients with customizable colors and stops.
+>> &bull;Inkscape allows you to create clones of objects, which are linked copies that share the same properties as the original object. Any changes made to the original object are reflected in its clones.
 >>
 >> 
 >>&bull;Similarly, you can fill shapes with patterns like stripes, dots, or custom designs. Inkscape provides a set of predefined patterns, and you can also create your own patterns.
