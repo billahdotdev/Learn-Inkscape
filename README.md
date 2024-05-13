@@ -66,3 +66,14 @@ Here is some Theory-
 >>
 >> 
 >>&bull;Symbols are reusable objects that can be placed multiple times in your artwork. Changes made to a symbol are applied to all instances of that symbol.
+
+<br>
+<br>
+
+>5. Clones and Symbols:
+>>
+>> &bull;Inkscape allows you to create clones of objects, which are linked copies that share the same properties as the original object. Any changes made to the original object are reflected in its clones.
+>>
+>> 
+>>&bull;Symbols are reusable objects that can be placed multiple times in your artwork. Changes made to a symbol are applied to all instances of that symbol.
+
