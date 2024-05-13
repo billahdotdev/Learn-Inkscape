@@ -22,4 +22,4 @@ Inkscape and Adobe Illustrator are both vector graphics editors, but they differ
 
 You can download Inkscape from its official [website.](https://inkscape.org/)
 
-## s
+## Learn Inkscape
