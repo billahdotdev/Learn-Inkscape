@@ -55,4 +55,4 @@ Here is some Theory-
 >> &bull;Inkscape supports gradients and patterns for filling shapes and paths. You can create linear, radial, or elliptical gradients with customizable colors and stops.
 >>
 >> 
->>&bull;Practice using these tools to create various shapes and paths. Experiment with different techniques like drawing straight lines, curves, and closed shapes.
+>>&bull;Similarly, you can fill shapes with patterns like stripes, dots, or custom designs. Inkscape provides a set of predefined patterns, and you can also create your own patterns.
