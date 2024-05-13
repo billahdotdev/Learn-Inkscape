@@ -36,3 +36,6 @@ Here is some Theory-
 >>
 >> &bull;By combining straight and curved segments, you can create complex shapes and designs.
 
+
+2. Bezier and Pen Tools:
+
