@@ -6,17 +6,17 @@
 
 ## Inkscape VS Adobe Illustrator
 
-### Inkscape and Adobe Illustrator are both vector graphics editors, but they differ in several ways:
+Inkscape and Adobe Illustrator are both vector graphics editors, but they differ in several ways:
 
-### 1. Cost: Inkscape is free and open-source, while Adobe Illustrator is commercial software available through subscription.
+1. Cost: Inkscape is free and open-source, while Adobe Illustrator is commercial software available through subscription.
 
-### 2. Platform: Inkscape is available for Windows, Mac, and Linux, whereas Adobe Illustrator is primarily available for Windows and Mac.
+2. Platform: Inkscape is available for Windows, Mac, and Linux, whereas Adobe Illustrator is primarily available for Windows and Mac.
 
-### 3. Features: Adobe Illustrator typically offers a wider range of advanced features and tools compared to Inkscape. Illustrator is also integrated with other Adobe products, which can benefit professional workflows.
+3. Features: Adobe Illustrator typically offers a wider range of advanced features and tools compared to Inkscape. Illustrator is also integrated with other Adobe products, which can benefit professional workflows.
 
-### 4. User Interface: The user interface of Adobe Illustrator tends to be more polished and refined, offering a smoother user experience. In contrast, Inkscape's interface may feel slightly less polished but is still functional.
+4. User Interface: The user interface of Adobe Illustrator tends to be more polished and refined, offering a smoother user experience. In contrast, Inkscape's interface may feel slightly less polished but is still functional.
 
-### 5. Compatibility: Adobe Illustrator has better compatibility with other Adobe software and industry standards, which can be important for professional designers working in collaborative environments.
+5. Compatibility: Adobe Illustrator has better compatibility with other Adobe software and industry standards, which can be important for professional designers working in collaborative environments.
 
 ## Download Inkscape
 
