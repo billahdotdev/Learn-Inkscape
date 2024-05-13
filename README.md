@@ -70,7 +70,7 @@ Here is some Theory-
 <br>
 <br>
 
->5. Clones and Symbols:
+>5. Filters and Effects:
 >>
 >> &bull;Inkscape allows you to create clones of objects, which are linked copies that share the same properties as the original object. Any changes made to the original object are reflected in its clones.
 >>
