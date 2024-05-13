@@ -29,4 +29,6 @@ You can find instructional YouTube videos on the topic too.
 
 Here is some Theory-
 
+1. Paths and Nodes:
+
 
