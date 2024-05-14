@@ -81,7 +81,7 @@ Here is some Theory-
 <br>
 <br>
 
->6. Filters and Effects:
+>6. Extensions:
 >>
 >> &bull;Inkscape provides a variety of filters and effects that you can apply to objects to achieve different visual effects. These include blur, drop shadow, glow, and many others.
 >>
