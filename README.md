@@ -87,5 +87,5 @@ Here is some Theory-
 >> &bull;Inkscape supports extensions, which are additional features and tools that extend its functionality. You can find and install extensions to perform tasks like generating patterns, creating 3D effects, or optimizing images for the web.
 >>
 >> 
->>&bull;
+>>&bull;Explore the Extensions menu to discover available extensions and install new ones to enhance your workflow.
 
