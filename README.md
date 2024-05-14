@@ -95,7 +95,7 @@ Here is some Theory-
 
 >7. Advanced Techniques:
 >>
->> &bull;Inkscape provides a variety of filters and effects that you can apply to objects to achieve different visual effects. These include blur, drop shadow, glow, and many others.
+>> &bull;As you become more familiar with Inkscape, you can explore advanced techniques such as path operations (union, difference, intersection, exclusion), masking, clipping, and using the XML editor for precise control over objects and attributes.
 >>
 >> 
 >>&bull;Experiment with applying filters and effects to your artwork to add depth, texture, and visual interest.
