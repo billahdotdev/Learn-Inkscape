@@ -84,7 +84,7 @@ Here is some Theory-
 
 >6. Extensions:
 >>
->> &bull;Inkscape provides a variety of filters and effects that you can apply to objects to achieve different visual effects. These include blur, drop shadow, glow, and many others.
+>> &bull;Inkscape supports extensions, which are additional features and tools that extend its functionality. You can find and install extensions to perform tasks like generating patterns, creating 3D effects, or optimizing images for the web.
 >>
 >> 
 >>&bull;Experiment with applying filters and effects to your artwork to add depth, texture, and visual interest.
