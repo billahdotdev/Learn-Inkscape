@@ -72,7 +72,7 @@ Here is some Theory-
 
 >5. Filters and Effects:
 >>
->> &bull;Inkscape allows you to create clones of objects, which are linked copies that share the same properties as the original object. Any changes made to the original object are reflected in its clones.
+>> &bull;Inkscape provides a variety of filters and effects that you can apply to objects to achieve different visual effects. These include blur, drop shadow, glow, and many others.
 >>
 >> 
 >>&bull;Symbols are reusable objects that can be placed multiple times in your artwork. Changes made to a symbol are applied to all instances of that symbol.
