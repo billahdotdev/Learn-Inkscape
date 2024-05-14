@@ -89,3 +89,18 @@ Here is some Theory-
 >> 
 >>&bull;Explore the Extensions menu to discover available extensions and install new ones to enhance your workflow.
 
+
+<br>
+<br>
+
+>7. Filters and Effects:
+>>
+>> &bull;Inkscape provides a variety of filters and effects that you can apply to objects to achieve different visual effects. These include blur, drop shadow, glow, and many others.
+>>
+>> 
+>>&bull;Experiment with applying filters and effects to your artwork to add depth, texture, and visual interest.
+
+
+
+
+
