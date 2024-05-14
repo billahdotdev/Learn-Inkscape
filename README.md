@@ -97,8 +97,6 @@ Here is some Theory-
 >>
 >> &bull;As you become more familiar with Inkscape, you can explore advanced techniques such as path operations (union, difference, intersection, exclusion), masking, clipping, and using the XML editor for precise control over objects and attributes.
 >>
->> 
->>&bull;Experiment with applying filters and effects to your artwork to add depth, texture, and visual interest.
 
 
 
