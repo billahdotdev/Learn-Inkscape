@@ -76,7 +76,7 @@ Here is some Theory-
 >> &bull;Inkscape provides a variety of filters and effects that you can apply to objects to achieve different visual effects. These include blur, drop shadow, glow, and many others.
 >>
 >> 
->>&bull;Experiment with applying filters and effects to your artwork to add depth, texture, and visual interest.
+>>&bull; Experiment with applying filters and effects to your artwork to add depth, texture, and visual interest.
 
 
 <br>
