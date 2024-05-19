@@ -36,7 +36,7 @@ Here is some Theory-
 >>
 >> &bull;You can use the Node tool to select and manipulate individual nodes. Click on a node to select it, and then you can move it, adjust its handles (if it's a curved node), or delete it.
 >>
->> &bull;By combining straight and curved segments, you can create complex shapes and designs.
+>> &bull; By combining straight and curved segments, you can create complex shapes and designs.
 
 <br>
 <br>
