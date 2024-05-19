@@ -95,7 +95,8 @@ Here is some Theory-
 
 >7. Advanced Techniques:
 >>
->> &bull;As you become more familiar with Inkscape, you can explore advanced techniques such as path operations (union, difference, intersection, exclusion), masking, clipping, and using the XML editor for precise control over objects and attributes.
+>> &bull;As you become more familiar with Inkscape, you can explore advanced techniques such as path operations (union, difference, intersection, exclusion), masking, 
+        clipping, and using the XML editor for precise control over objects and attributes.
 >>
 
 
