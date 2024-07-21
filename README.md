@@ -30,7 +30,7 @@ You can find instructional YouTube videos on the topic too.
 
 Here is some Theory-
 
->1. Paths and Nodes:      
+>1. Paths and Nodes:        
 >>
 >> &bull; Inkscape's strength lies in its powerful path editing capabilities. Paths are made up of nodes and segments. Nodes are the points that define the shape of the path, and segments are the lines that connect these nodes.
 >>
