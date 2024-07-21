@@ -41,7 +41,7 @@ Here is some Theory-
 <br>
 <br>
 
->2. Bezier and Pen Tools:
+>2. Bezier and Pen Tools:  
 >>
 >> &bull; The Bezier and Pen tools allow you to draw custom paths with precision. With these tools, you can create smooth curves and sharp angles by clicking to place anchor points and dragging to adjust the curve handles.
 >>
