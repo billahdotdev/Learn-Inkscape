@@ -51,7 +51,7 @@ Here is some Theory-
 <br>
 <br>
 
->3. Gradients and Patterns:
+>3. Gradients and Patterns:  
 >>
 >> &bull; Inkscape supports gradients and patterns for filling shapes and paths. You can create linear, radial, or elliptical gradients with customizable colors and stops.
 >>
