@@ -19,7 +19,7 @@ Inkscape and Adobe Illustrator are both vector graphics editors, but they differ
 
 5. Compatibility: Adobe Illustrator has better compatibility with other Adobe software and industry standards, which can be important for professional designers working in collaborative environments.
 
-## Download Inkscape  
+## Download Inkscape    
 
 You can download Inkscape from its official [website.](https://inkscape.org/)
 
