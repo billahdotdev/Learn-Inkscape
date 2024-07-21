@@ -61,7 +61,7 @@ Here is some Theory-
 <br>
 <br>
 
->4. Clones and Symbols:    
+>4. Clones and Symbols:      
 >>
 >> &bull; Inkscape allows you to create clones of objects, which are linked copies that share the same properties as the original object. Any changes made to the original object are reflected in its clones.
 >>
