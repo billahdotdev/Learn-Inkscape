@@ -1,5 +1,5 @@
              
-# Learn Inkscape              
+# Learn Inkscape                
 
 ## What is Inkscape?   
 
