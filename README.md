@@ -1,11 +1,11 @@
                      
-# Learn Inkscape                  
+# Learn Inkscape                
 
 ## What is Inkscape?   
 
 ### Inkscape is a free and open-source vector graphics editor. It's similar to Adobe Illustrator or CorelDRAW but is free, making it a popular choice for artists, designers, and anyone working with vector graphics. Inkscape allows users to create and edit scalable vector graphics (SVG) files, which are ideal for logos, icons, illustrations, and other graphic design projects. It supports various features such as shapes, paths, text, gradients, transparency, etc. Additionally, Inkscape supports extensions and has a vibrant community contributing to its development, offering additional functionality through plugins and scripts.
 
-## Inkscape VS Adobe Illustrator
+## Inkscape VS Adobe Illustrator 
 
 Inkscape and Adobe Illustrator are both vector graphics editors, but they differ in several ways:
 
@@ -25,7 +25,7 @@ You can download Inkscape from its official [website.](https://inkscape.org/)
 
 ## Learn Inkscape
 
-The best way to learn Inkscape is by reading its official [documentation.](https://inkscape.org/learn/)
+The best way to learn Inkscape is by reading its [official documentation.](https://inkscape.org/learn/) 
 You can find instructional YouTube videos on the topic too.
 
 Here is some Theory-
